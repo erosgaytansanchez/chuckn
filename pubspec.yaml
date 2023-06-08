@@ -1,0 +1,31 @@
+name: chuck_norris
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.13.1
+  firebase_auth: ^4.6.2
+  http: ^1.0.0
+  flutter_phoenix: ^1.1.1
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  
+  flutter_lints: ^2.0.0
+flutter:
+
+  
+  uses-material-design: true
+
